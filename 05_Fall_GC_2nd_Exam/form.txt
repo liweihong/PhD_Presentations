@@ -1,0 +1,10 @@
+Robert Haralick GC/212-817-8192/Haralick@netscape.net 347-742-5871
+George Wolberg CCNY/212-650-6160/Wolberg@cs.ccny.cuny.edu
+Esther Levin CCNY/212-650-5626/esther@cs.ccny.cuny.edu
+Michael Chan/ GE Global Research/ One Research Circle, KW-C220A, Niskayuna, NY 12309/chanm@research.ge.com/518-387-4130
+
+Comments:
+Bob: Generized definition and formalized problem descrption on research issue.
+Esther: What is the Research issue, what is the data set? what is the evaluation result? start off data collection
+George: Why whiteboard, not Tablet?
+Michael: Carefully define the activities; come up an idea from the collected data.
